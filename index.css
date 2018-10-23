@@ -1,1 +1,25 @@
+h1 {
+  font-family: 'BioRhyme';
+  text-align: center;
+  font-size: 75px;
+  color: #895B5B;
+}
 
+header {
+  text-align: center;
+}
+
+a {
+  color: white;
+  font-family: 'BioRhyme';
+}
+
+ul {
+  padding: 10px;
+  background: #895B5B;
+}
+
+li {
+  display: inline;
+  padding: 0px 10px 0px 10px;
+}
