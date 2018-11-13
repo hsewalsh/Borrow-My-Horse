@@ -1,0 +1,61 @@
+h1 {
+  font-family: 'BioRhyme';
+  text-align: center;
+  font-size: 75px;
+  color: #895B5B;
+}
+
+header {
+  text-align: center;
+}
+
+a {
+  color: white;
+  font-family: 'BioRhyme';
+}
+
+nav{
+  margin: 0 0 0 0;
+  font-size: 100%;
+  width: 100%;
+}
+
+ul {
+  padding: 10px;
+  background: #895B5B;
+}
+
+li {
+  display: inline;
+  padding: 0px 10px 0px 10px;
+}
+
+h3{
+  font-family: 'BioRhyme';
+  text-align: center;
+  font-size: 25px;
+  color: #895B5B;
+}
+
+h4{
+  text-align: center;
+  color: #ccb3b3;
+}
+
+.column{
+  float: left;
+  width: 50%;
+}
+
+.row:after{
+  content: " ";
+  display: table;
+  clear: both;
+}
+
+p{
+  font-size: 25px;
+  font-family: 'BioRhyme';
+  text-align: center;
+  color: #ccb3b3;
+}
