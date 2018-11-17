@@ -22,7 +22,9 @@ a {
 }
 
 a:hover {
+    color: white;
     opacity: 0.7;
+    text-decoration: none;
 }
 
 a.textlink {
@@ -37,6 +39,30 @@ ul {
 li {
   display: inline;
   padding: 0px 10px 0px 10px;
+}
+
+.navbar {
+  text-align: center;
+  background: #895B5B;
+}
+
+.navbar-expand-lg {
+  text-align: center;
+  background: #895B5B;
+}
+
+.navbar-light {
+  text-align: center;
+  background: #895B5B;
+}
+
+.navbar-brand {
+  font-family: 'BioRhyme';
+  text-align: center;
+  font-size: 15px;
+  color: white;
+  display: inline-block;
+  float: none;
 }
 
 img.horse {
@@ -65,7 +91,7 @@ img.horse {
     border-radius: 50%;
     padding: 10px;
     font-size: 20px;
-    width: 30px;
+    width: 50px;
     text-align: center;
     text-decoration: none;
 }
@@ -87,4 +113,10 @@ img.horse {
 .fa-envelope {
     background: #895B5B;
     color: white;
+}
+
+footer {
+    background: #895B5B;
+    height: 50px;
+    margin-top: 30px;
 }
