@@ -9,6 +9,7 @@ header {
   text-align: center;
 }
 
+
 img.horse {
     border-radius: 50%;
     display: block;
@@ -22,10 +23,20 @@ a {
   font-family: 'BioRhyme';
 }
 
-nav{
+.nav{
   margin: 0 0 0 0;
   font-size: 100%;
   width: 100%;
+}
+
+.nav-expand-lg {
+  text-align: center;
+  background: #895B5B;
+}
+
+.nav-light {
+  text-align: center;
+  background: #895B5B;
 }
 
 ul {
