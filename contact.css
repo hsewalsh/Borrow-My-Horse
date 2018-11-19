@@ -9,6 +9,14 @@ header {
   text-align: center;
 }
 
+img.horse {
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+  }
+
 a {
   color: white;
   font-family: 'BioRhyme';
@@ -58,4 +66,45 @@ p{
   font-family: 'BioRhyme';
   text-align: center;
   color: #ccb3b3;
+}
+
+.social {
+  text-align: center;
+  font-family: 'BioRhyme';
+  font-size: 15px;
+  color: #ccb3b3;
+}
+
+.fa {
+    border-radius: 50%;
+    padding: 10px;
+    font-size: 20px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+    background: #895B5B;
+    color: white;
+}
+
+.fa-twitter {
+    background: #895B5B;
+    color: white;
+}
+
+.fa-envelope {
+    background: #895B5B;
+    color: white;
+}
+
+footer {
+    background: #895B5B;
+    height: 50px;
+    margin-top: 30px;
 }
